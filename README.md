@@ -2,7 +2,7 @@
 
 Welcome to the C++ Command Line Mathematical Expression Solver project! This endeavor delves into the realm of solving mathematical expressions through the command line interface. The project is primarily centered around implementing the process of evaluating mathematical expressions while considering the hierarchy of operators and proper parenthesis placement. Here's a breakdown of the key features and concepts:
 
-1) **Expression Conversion**: At the core of this project is the conversion of mathematical expressions from the commonly used infix notation (e.g., 2 + 3) to the more efficient prefix notation (e.g., + 2 3). This conversion process sets the stage for subsequent evaluation.
+1) **Expression Transformation**: At the heart of this project lies the process of transforming mathematical expressions from their traditional infix notation (e.g., 2 + 3) into the highly efficient postfix notation (e.g., 2 3 +). This transformation paves the way for subsequent evaluation.
 
 2) **Operator Precedence**: To ensure accurate results, the project takes into account the precedence of operators. This means that multiplication, division, addition, and subtraction are treated in the correct order, mirroring mathematical conventions.
 
